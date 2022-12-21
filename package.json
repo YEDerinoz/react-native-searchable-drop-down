@@ -1,0 +1,34 @@
+{
+  "name": "react-native-searchable-dropdown",
+  "version": "1.1.3",
+  "description": "Searchable Dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "material",
+    "dropdown",
+    "spinner",
+    "select",
+    "multi selection",
+    "multi list",
+    "multi searchable dropdown",
+    "searchable-dropdown",
+    "react-native-searchable-dropdown",
+    "react searchable dropdown",
+    "react searchable list",
+    "react auto search dropdown"
+  ],
+  "author": "Zubair Ibrahim <zubair.paizer11@gmail.com.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zubairpaizer/react-native-searchable-dropdown.git"
+  }
+}
